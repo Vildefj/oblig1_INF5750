@@ -31,7 +31,7 @@ public class BaseController {
         public String helloWorld(@PathVariable String name, ModelMap model) {
 
                 model.addAttribute("message", "Hello " + name);
-                return "index";
+                return "hello";
 
         }
 

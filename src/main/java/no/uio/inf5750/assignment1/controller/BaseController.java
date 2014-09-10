@@ -22,7 +22,15 @@ public class BaseController {
         @RequestMapping(value="/welcome/{name}", method = RequestMethod.GET)
         public String welcomeName(@PathVariable String name, ModelMap model) {
 
-                model.addAttribute("message", "Maven Web Project + Spring 3 MVC - " + name);
+                model.addAttribute("message", "Welcome " + name);
+                return "index";
+
+        }
+        
+        @RequestMapping(value="/hello/{name}", method = RequestMethod.GET)
+        public String helloWorld(@PathVariable String name, ModelMap model) {
+
+                model.addAttribute("message", "Hello " + name);
                 return "index";
 
         }

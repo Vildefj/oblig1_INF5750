@@ -1,4 +1,4 @@
-/Users/vildefjeldstad/Documents/IFI/Høst2014/INF5750/obliger/oblig1/assignment1_vildefj/src/main/java/no/uio/inf5750/assignment1/model/Message.java
-/Users/vildefjeldstad/Documents/IFI/Høst2014/INF5750/obliger/oblig1/assignment1_vildefj/src/main/java/no/uio/inf5750/assignment1/dao/HibernateMessageDao.java
-/Users/vildefjeldstad/Documents/IFI/Høst2014/INF5750/obliger/oblig1/assignment1_vildefj/src/main/java/no/uio/inf5750/assignment1/controller/BaseController.java
-/Users/vildefjeldstad/Documents/IFI/Høst2014/INF5750/obliger/oblig1/assignment1_vildefj/src/main/java/no/uio/inf5750/assignment1/dao/MessageDao.java
+/Users/vildefjeldstad/Documents/IFI/Høst2014/INF5750/obliger/oblig1/assignment1_vildefj/src/main/java/no/uio/inf5750/assignment1_vildefj/dao/HibernateMessageDao.java
+/Users/vildefjeldstad/Documents/IFI/Høst2014/INF5750/obliger/oblig1/assignment1_vildefj/src/main/java/no/uio/inf5750/assignment1_vildefj/controller/BaseController.java
+/Users/vildefjeldstad/Documents/IFI/Høst2014/INF5750/obliger/oblig1/assignment1_vildefj/src/main/java/no/uio/inf5750/assignment1_vildefj/dao/MessageDao.java
+/Users/vildefjeldstad/Documents/IFI/Høst2014/INF5750/obliger/oblig1/assignment1_vildefj/src/main/java/no/uio/inf5750/assignment1_vildefj/model/Message.java
